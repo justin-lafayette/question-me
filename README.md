@@ -1,0 +1,1 @@
+Purpose: Create a full stack React application with MySQL DB on an AWS hosted server. Site will generate questions to a quiz genre and log the score to a leaderboard and unencrypted user profile. User profiles and their score will be stored in the MySQL DB.
